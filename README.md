@@ -8,14 +8,16 @@ Categori CTF : WEB EXPLOID
 
 Tools yang berhasil di install : Ubuntu
 
+DOKUMENTASI :
+
 <img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/e45a7593-e7d8-41bb-b2f8-891ff695076a" />
 1. challange undo:
 
 
-step 1 ; mennggunakan  prompt base64 -d untuk mengembalikan string CHARACTER yang berisi versi string sumber yang telah dienkode base64.
+step 1 ; menggunakan  prompt base64 -d untuk mengembalikan string CHARACTER yang berisi versi string sumber yang telah dienkode base64.
 
 
-step 2 : menggunakan command rev unntuk merevers atau memutar balikan text .
+step 2 : menggunakan command rev untuk merevers atau memutar balikan text .
 
 
 step 3 : menggunakan command tr '-' '_' untuk merubah semua simbol - menjadi _
